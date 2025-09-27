@@ -26,9 +26,7 @@ GND        →   GND
 
 🚀 **Thread-Safe ESP8266 Web Server** for dual MCP4725 DAC control with real-time WebSocket communication
 
-![Main Interface](assets/1.png)
 ## 🎮 Usage
-
 ### **Web Interface**
 - 🎛️ **Sliders**: Real-time voltage control (0-3.3V)
 - ⚡ **Empedans Modes**: Normal/1kΩ/100kΩ/500kΩ pull-down
